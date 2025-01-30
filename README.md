@@ -12,7 +12,7 @@ This is the assessment for eJam
 - pair program together to test
 
 <hr>
-🤔 If you had more time, what you’d improve or explore further?\n
+🤔 If you had more time, what you’d improve or explore further?
 
 👉 If I had time to improve or explore further, I want to do the following:
 
