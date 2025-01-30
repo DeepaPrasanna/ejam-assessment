@@ -2,7 +2,11 @@
 
 This is the assessment for eJam
 
+Screen recording to show the assessment functionality:
+
+
 🤔 How you'd collaborate with a teammate to improve or expand this task?
+[React App.webm](https://github.com/user-attachments/assets/4605b5e6-1b19-42a3-9fcb-5b4ef95576e9)
 
 👉 I would collaborate with my teammate in the following ways: 
 - discussing/planning the required improvements and set ourselves goals
