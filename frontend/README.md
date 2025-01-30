@@ -1,6 +1,13 @@
 # eJam assessment frontend
 
 This is a simple react app where users can add superheroes and see the list of superheroes.
+
+## Project setup
+
+```bash
+$ npm install
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
